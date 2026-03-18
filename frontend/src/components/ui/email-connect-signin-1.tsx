@@ -306,7 +306,7 @@ export const TravelConnectSignIn = ({
                 transition={{ delay: 0.7, duration: 0.5 }}
                 className="mb-2 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-center text-3xl font-bold text-transparent dark:from-blue-300 dark:to-indigo-300"
               >
-                Email Connect
+                Free Mail
               </motion.h2>
               <motion.p
                 initial={{ opacity: 0, y: -20 }}
